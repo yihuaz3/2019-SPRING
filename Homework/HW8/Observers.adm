@@ -1,0 +1,200 @@
+{ "id": 6, "kind": "camera", "manufacturer": "Apple", "model": "Model 7", "ownedBy": 23, "softwareVersion": "1.7" }
+{ "id": 8, "kind": "camera", "manufacturer": "Google", "model": "Model 8", "ownedBy": 25, "softwareVersion": "3.4" }
+{ "id": 9, "kind": "camera", "manufacturer": "Google", "model": "Model 3", "ownedBy": 9, "softwareVersion": "10.9" }
+{ "id": 10, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 8", "ownedBy": 48, "softwareVersion": "2.2" }
+{ "id": 11, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 70, "softwareVersion": "1.1" }
+{ "id": 12, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 9", "ownedBy": 44, "softwareVersion": "11.4" }
+{ "id": 14, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 27, "softwareVersion": "1.8" }
+{ "id": 21, "kind": "camera", "manufacturer": "Apple", "model": "Model 4", "ownedBy": 36, "softwareVersion": "11.7" }
+{ "id": 23, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 7", "ownedBy": 47, "softwareVersion": "9.6" }
+{ "id": 25, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 9", "ownedBy": 65, "softwareVersion": "8.3" }
+{ "id": 26, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 1", "ownedBy": 97, "softwareVersion": "12.6" }
+{ "id": 28, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 2", "ownedBy": 59, "softwareVersion": "10.8" }
+{ "id": 30, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 2", "ownedBy": 90, "softwareVersion": "5.5" }
+{ "id": 33, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 2", "ownedBy": 23, "softwareVersion": "6.9" }
+{ "id": 34, "kind": "smartphone", "manufacturer": "Google", "model": "Model 4", "ownedBy": 23, "softwareVersion": "10.4" }
+{ "id": 37, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 1", "ownedBy": 23, "softwareVersion": "3.1" }
+{ "id": 38, "kind": "smartphone", "manufacturer": "Google", "model": "Model 2", "ownedBy": 38, "softwareVersion": "4.8" }
+{ "id": 40, "kind": "smartphone", "manufacturer": "Google", "model": "Model 5", "ownedBy": 46, "softwareVersion": "4.1" }
+{ "id": 41, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 0", "ownedBy": 56, "softwareVersion": "6.1" }
+{ "id": 43, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 6", "ownedBy": 58, "softwareVersion": "12.2" }
+{ "id": 45, "kind": "smartphone", "manufacturer": "Google", "model": "Model 8", "ownedBy": 29, "softwareVersion": "3.4" }
+{ "id": 47, "kind": "camera", "manufacturer": "Sony", "model": "Model 1", "ownedBy": 28, "softwareVersion": "11.9" }
+{ "id": 49, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 7", "ownedBy": 97, "softwareVersion": "9.3" }
+{ "id": 51, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 3", "ownedBy": 4, "softwareVersion": "6.5" }
+{ "id": 58, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 0", "ownedBy": 30, "softwareVersion": "9.6" }
+{ "id": 60, "kind": "camera", "manufacturer": "Google", "model": "Model 8", "ownedBy": 72, "softwareVersion": "2.7" }
+{ "id": 66, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 1", "ownedBy": 64, "softwareVersion": "6.1" }
+{ "id": 67, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 5", "ownedBy": 69, "softwareVersion": "1.4" }
+{ "id": 69, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 2", "ownedBy": 19, "softwareVersion": "5.3" }
+{ "id": 70, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 4", "ownedBy": 24, "softwareVersion": "1.9" }
+{ "id": 72, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 8", "ownedBy": 77, "softwareVersion": "1.4" }
+{ "id": 76, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 4", "ownedBy": 31, "softwareVersion": "6.8" }
+{ "id": 77, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 48, "softwareVersion": "6.3" }
+{ "id": 79, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 4", "ownedBy": 40, "softwareVersion": "10.9" }
+{ "id": 84, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 4", "ownedBy": 27, "softwareVersion": "3.4" }
+{ "id": 85, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 8", "ownedBy": 87, "softwareVersion": "11.8" }
+{ "id": 86, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 7", "ownedBy": 78, "softwareVersion": "8.9" }
+{ "id": 88, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 6", "ownedBy": 52, "softwareVersion": "3.8" }
+{ "id": 89, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 1", "ownedBy": 95, "softwareVersion": "8.9" }
+{ "id": 92, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 5", "ownedBy": 23, "softwareVersion": "8.5" }
+{ "id": 93, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 67, "softwareVersion": "6.2" }
+{ "id": 94, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 6", "ownedBy": 74, "softwareVersion": "1.3" }
+{ "id": 95, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 8", "ownedBy": 8, "softwareVersion": "10.2" }
+{ "id": 96, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 0", "ownedBy": 36, "softwareVersion": "11.9" }
+{ "id": 99, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 7", "ownedBy": 88, "softwareVersion": "7.6" }
+{ "id": 102, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 5", "ownedBy": 77, "softwareVersion": "8.4" }
+{ "id": 103, "kind": "camera", "manufacturer": "Sony", "model": "Model 2", "ownedBy": 34, "softwareVersion": "6.2" }
+{ "id": 105, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 3", "ownedBy": 69, "softwareVersion": "6.6" }
+{ "id": 108, "kind": "camera", "manufacturer": "Apple", "model": "Model 3", "ownedBy": 31, "softwareVersion": "1.3" }
+{ "id": 109, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 5", "ownedBy": 10, "softwareVersion": "3.1" }
+{ "id": 111, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 6", "ownedBy": 82, "softwareVersion": "7.5" }
+{ "id": 113, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 3", "ownedBy": 19, "softwareVersion": "5.5" }
+{ "id": 115, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 1", "ownedBy": 16, "softwareVersion": "9.6" }
+{ "id": 116, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 3", "ownedBy": 5, "softwareVersion": "11.3" }
+{ "id": 118, "kind": "camera", "manufacturer": "Google", "model": "Model 2", "ownedBy": 64, "softwareVersion": "10.5" }
+{ "id": 124, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 64, "softwareVersion": "12.6" }
+{ "id": 125, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 0", "ownedBy": 93, "softwareVersion": "11.4" }
+{ "id": 126, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 8", "ownedBy": 78, "softwareVersion": "1.6" }
+{ "id": 128, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 9", "ownedBy": 59, "softwareVersion": "3.5" }
+{ "id": 132, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 2", "ownedBy": 31, "softwareVersion": "6.2" }
+{ "id": 133, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 6", "ownedBy": 79, "softwareVersion": "8.6" }
+{ "id": 134, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 100, "softwareVersion": "4.1" }
+{ "id": 135, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 3", "ownedBy": 99, "softwareVersion": "5.2" }
+{ "id": 136, "kind": "camera", "manufacturer": "Apple", "model": "Model 8", "ownedBy": 29, "softwareVersion": "9.3" }
+{ "id": 138, "kind": "camera", "manufacturer": "Apple", "model": "Model 1", "ownedBy": 51, "softwareVersion": "1.3" }
+{ "id": 139, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 8", "ownedBy": 82, "softwareVersion": "7.9" }
+{ "id": 141, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 0", "ownedBy": 51, "softwareVersion": "0.5" }
+{ "id": 147, "kind": "camera", "manufacturer": "Google", "model": "Model 5", "ownedBy": 64, "softwareVersion": "8.4" }
+{ "id": 150, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 3", "ownedBy": 66, "softwareVersion": "1.8" }
+{ "id": 152, "kind": "camera", "manufacturer": "Apple", "model": "Model 4", "ownedBy": 31, "softwareVersion": "12.9" }
+{ "id": 153, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 5", "ownedBy": 46, "softwareVersion": "12.7" }
+{ "id": 154, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 5", "ownedBy": 30, "softwareVersion": "6.7" }
+{ "id": 155, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 2", "ownedBy": 80, "softwareVersion": "11.3" }
+{ "id": 156, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 2", "ownedBy": 86, "softwareVersion": "9.4" }
+{ "id": 157, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 9", "ownedBy": 12, "softwareVersion": "0.8" }
+{ "id": 160, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 2", "ownedBy": 22, "softwareVersion": "3.7" }
+{ "id": 166, "kind": "smartphone", "manufacturer": "Google", "model": "Model 0", "ownedBy": 44, "softwareVersion": "0.4" }
+{ "id": 167, "kind": "smartphone", "manufacturer": "Google", "model": "Model 1", "ownedBy": 37, "softwareVersion": "8.7" }
+{ "id": 170, "kind": "smartphone", "manufacturer": "Google", "model": "Model 9", "ownedBy": 95, "softwareVersion": "9.3" }
+{ "id": 171, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 1", "ownedBy": 15, "softwareVersion": "9.7" }
+{ "id": 174, "kind": "camera", "manufacturer": "Apple", "model": "Model 6", "ownedBy": 18, "softwareVersion": "2.1" }
+{ "id": 178, "kind": "camera", "manufacturer": "Apple", "model": "Model 1", "ownedBy": 48, "softwareVersion": "3.7" }
+{ "id": 179, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 7", "ownedBy": 16, "softwareVersion": "10.9" }
+{ "id": 180, "kind": "smartphone", "manufacturer": "Google", "model": "Model 8", "ownedBy": 85, "softwareVersion": "11.4" }
+{ "id": 182, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 0", "ownedBy": 95, "softwareVersion": "11.1" }
+{ "id": 183, "kind": "camera", "manufacturer": "Google", "model": "Model 3", "ownedBy": 22, "softwareVersion": "6.8" }
+{ "id": 185, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 0", "ownedBy": 52, "softwareVersion": "2.6" }
+{ "id": 187, "kind": "camera", "manufacturer": "Google", "model": "Model 2", "ownedBy": 23, "softwareVersion": "2.6" }
+{ "id": 190, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 1", "ownedBy": 58, "softwareVersion": "4.9" }
+{ "id": 191, "kind": "camera", "manufacturer": "Google", "model": "Model 0", "ownedBy": 100, "softwareVersion": "4.8" }
+{ "id": 192, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 9", "ownedBy": 90, "softwareVersion": "7.9" }
+{ "id": 195, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 9", "ownedBy": 23, "softwareVersion": "0.4" }
+{ "id": 196, "kind": "camera", "manufacturer": "Apple", "model": "Model 3", "ownedBy": 13, "softwareVersion": "1.2" }
+{ "id": 199, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 7", "ownedBy": 83, "softwareVersion": "10.7" }
+{ "id": 200, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 9", "ownedBy": 87, "softwareVersion": "0.6" }
+{ "id": 1, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 5", "ownedBy": 80, "softwareVersion": "5.5" }
+{ "id": 2, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 8", "ownedBy": 7, "softwareVersion": "5.6" }
+{ "id": 3, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 39, "softwareVersion": "10.2" }
+{ "id": 4, "kind": "smartphone", "manufacturer": "Google", "model": "Model 6", "ownedBy": 68, "softwareVersion": "9.2" }
+{ "id": 5, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 4", "ownedBy": 30, "softwareVersion": "4.1" }
+{ "id": 7, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 91, "softwareVersion": "1.4" }
+{ "id": 13, "kind": "camera", "manufacturer": "Sony", "model": "Model 5", "ownedBy": 47, "softwareVersion": "4.6" }
+{ "id": 15, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 10, "softwareVersion": "0.7" }
+{ "id": 16, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 40, "softwareVersion": "6.6" }
+{ "id": 17, "kind": "camera", "manufacturer": "Sony", "model": "Model 5", "ownedBy": 84, "softwareVersion": "8.1" }
+{ "id": 18, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 41, "softwareVersion": "4.1" }
+{ "id": 19, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 7", "ownedBy": 61, "softwareVersion": "5.2" }
+{ "id": 20, "kind": "smartphone", "manufacturer": "Google", "model": "Model 2", "ownedBy": 96, "softwareVersion": "4.6" }
+{ "id": 22, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 5", "ownedBy": 100, "softwareVersion": "5.5" }
+{ "id": 24, "kind": "camera", "manufacturer": "Google", "model": "Model 8", "ownedBy": 36, "softwareVersion": "1.8" }
+{ "id": 27, "kind": "camera", "manufacturer": "Sony", "model": "Model 8", "ownedBy": 43, "softwareVersion": "8.2" }
+{ "id": 29, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 6", "ownedBy": 58, "softwareVersion": "5.2" }
+{ "id": 31, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 51, "softwareVersion": "12.7" }
+{ "id": 32, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 6", "ownedBy": 81, "softwareVersion": "12.3" }
+{ "id": 35, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 8", "ownedBy": 74, "softwareVersion": "2.9" }
+{ "id": 36, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 9", "ownedBy": 39, "softwareVersion": "6.3" }
+{ "id": 39, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 9", "ownedBy": 11, "softwareVersion": "0.5" }
+{ "id": 42, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 1", "ownedBy": 34, "softwareVersion": "0.4" }
+{ "id": 44, "kind": "camera", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 86, "softwareVersion": "11.2" }
+{ "id": 46, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 4", "ownedBy": 35, "softwareVersion": "11.9" }
+{ "id": 48, "kind": "camera", "manufacturer": "Apple", "model": "Model 0", "ownedBy": 79, "softwareVersion": "7.6" }
+{ "id": 50, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 8", "ownedBy": 78, "softwareVersion": "6.6" }
+{ "id": 52, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 5", "ownedBy": 34, "softwareVersion": "3.7" }
+{ "id": 53, "kind": "camera", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 47, "softwareVersion": "4.5" }
+{ "id": 54, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 3", "ownedBy": 56, "softwareVersion": "10.7" }
+{ "id": 55, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 5", "ownedBy": 22, "softwareVersion": "6.4" }
+{ "id": 56, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 1", "ownedBy": 52, "softwareVersion": "9.4" }
+{ "id": 57, "kind": "smartphone", "manufacturer": "Google", "model": "Model 6", "ownedBy": 2, "softwareVersion": "10.6" }
+{ "id": 59, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 9", "ownedBy": 57, "softwareVersion": "1.7" }
+{ "id": 61, "kind": "smartphone", "manufacturer": "Google", "model": "Model 5", "ownedBy": 64, "softwareVersion": "7.2" }
+{ "id": 62, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 9", "ownedBy": 21, "softwareVersion": "4.7" }
+{ "id": 63, "kind": "camera", "manufacturer": "Google", "model": "Model 7", "ownedBy": 67, "softwareVersion": "11.5" }
+{ "id": 64, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 5", "ownedBy": 35, "softwareVersion": "9.4" }
+{ "id": 65, "kind": "camera", "manufacturer": "Sony", "model": "Model 3", "ownedBy": 28, "softwareVersion": "1.3" }
+{ "id": 68, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 3", "ownedBy": 24, "softwareVersion": "9.3" }
+{ "id": 71, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 8", "ownedBy": 68, "softwareVersion": "1.2" }
+{ "id": 73, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 0", "ownedBy": 39, "softwareVersion": "12.9" }
+{ "id": 74, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 5", "ownedBy": 52, "softwareVersion": "4.4" }
+{ "id": 75, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 46, "softwareVersion": "8.5" }
+{ "id": 78, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 1", "ownedBy": 86, "softwareVersion": "4.4" }
+{ "id": 80, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 5", "ownedBy": 64, "softwareVersion": "2.6" }
+{ "id": 81, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 2", "ownedBy": 96, "softwareVersion": "12.1" }
+{ "id": 82, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 3", "ownedBy": 29, "softwareVersion": "11.8" }
+{ "id": 83, "kind": "camera", "manufacturer": "Google", "model": "Model 5", "ownedBy": 55, "softwareVersion": "3.8" }
+{ "id": 87, "kind": "camera", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 61, "softwareVersion": "3.2" }
+{ "id": 90, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 7", "ownedBy": 37, "softwareVersion": "12.3" }
+{ "id": 91, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 5", "ownedBy": 67, "softwareVersion": "9.1" }
+{ "id": 97, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 3", "ownedBy": 16, "softwareVersion": "8.6" }
+{ "id": 98, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 8", "ownedBy": 79, "softwareVersion": "6.3" }
+{ "id": 100, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 8", "ownedBy": 44, "softwareVersion": "5.1" }
+{ "id": 101, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 91, "softwareVersion": "11.8" }
+{ "id": 104, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 7", "ownedBy": 68, "softwareVersion": "5.5" }
+{ "id": 106, "kind": "camera", "manufacturer": "Google", "model": "Model 3", "ownedBy": 26, "softwareVersion": "5.1" }
+{ "id": 107, "kind": "camera", "manufacturer": "Google", "model": "Model 8", "ownedBy": 22, "softwareVersion": "10.5" }
+{ "id": 110, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 1", "ownedBy": 32, "softwareVersion": "12.5" }
+{ "id": 112, "kind": "camera", "manufacturer": "Sony", "model": "Model 2", "ownedBy": 30, "softwareVersion": "8.2" }
+{ "id": 114, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 1", "ownedBy": 41, "softwareVersion": "3.6" }
+{ "id": 117, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 2", "ownedBy": 63, "softwareVersion": "10.6" }
+{ "id": 119, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 0", "ownedBy": 73, "softwareVersion": "4.5" }
+{ "id": 120, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 0", "ownedBy": 98, "softwareVersion": "4.1" }
+{ "id": 121, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 8", "ownedBy": 33, "softwareVersion": "6.2" }
+{ "id": 122, "kind": "glucose monitor", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 13, "softwareVersion": "4.4" }
+{ "id": 123, "kind": "smartphone", "manufacturer": "Google", "model": "Model 6", "ownedBy": 58, "softwareVersion": "7.7" }
+{ "id": 127, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 3", "ownedBy": 50, "softwareVersion": "12.8" }
+{ "id": 129, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 4", "ownedBy": 7, "softwareVersion": "2.6" }
+{ "id": 130, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 9", "ownedBy": 60, "softwareVersion": "10.2" }
+{ "id": 131, "kind": "camera", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 79, "softwareVersion": "7.3" }
+{ "id": 137, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 5", "ownedBy": 68, "softwareVersion": "0.3" }
+{ "id": 140, "kind": "glucose monitor", "manufacturer": "Microsoft", "model": "Model 1", "ownedBy": 54, "softwareVersion": "3.4" }
+{ "id": 142, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 7", "ownedBy": 77, "softwareVersion": "3.1" }
+{ "id": 143, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 77, "softwareVersion": "10.7" }
+{ "id": 144, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 4", "ownedBy": 12, "softwareVersion": "6.4" }
+{ "id": 145, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 3", "ownedBy": 73, "softwareVersion": "11.1" }
+{ "id": 146, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 9", "ownedBy": 39, "softwareVersion": "11.9" }
+{ "id": 148, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 7", "ownedBy": 84, "softwareVersion": "2.6" }
+{ "id": 149, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 0", "ownedBy": 35, "softwareVersion": "0.2" }
+{ "id": 151, "kind": "glucose monitor", "manufacturer": "Apple", "model": "Model 4", "ownedBy": 66, "softwareVersion": "0.3" }
+{ "id": 158, "kind": "smartphone", "manufacturer": "Google", "model": "Model 7", "ownedBy": 2, "softwareVersion": "3.5" }
+{ "id": 159, "kind": "smartwatch", "manufacturer": "Microsoft", "model": "Model 5", "ownedBy": 33, "softwareVersion": "10.6" }
+{ "id": 161, "kind": "glucose monitor", "manufacturer": "Google", "model": "Model 9", "ownedBy": 13, "softwareVersion": "8.1" }
+{ "id": 162, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 9", "ownedBy": 67, "softwareVersion": "6.9" }
+{ "id": 163, "kind": "smartphone", "manufacturer": "Google", "model": "Model 9", "ownedBy": 41, "softwareVersion": "11.9" }
+{ "id": 164, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 2", "ownedBy": 81, "softwareVersion": "7.6" }
+{ "id": 165, "kind": "smartwatch", "manufacturer": "Google", "model": "Model 4", "ownedBy": 3, "softwareVersion": "8.1" }
+{ "id": 168, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 8", "ownedBy": 3, "softwareVersion": "2.8" }
+{ "id": 169, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 5", "ownedBy": 58, "softwareVersion": "0.9" }
+{ "id": 172, "kind": "camera", "manufacturer": "Google", "model": "Model 2", "ownedBy": 82, "softwareVersion": "1.1" }
+{ "id": 173, "kind": "camera", "manufacturer": "Microsoft", "model": "Model 0", "ownedBy": 57, "softwareVersion": "3.5" }
+{ "id": 175, "kind": "smartphone", "manufacturer": "Apple", "model": "Model 0", "ownedBy": 100, "softwareVersion": "0.1" }
+{ "id": 176, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 71, "softwareVersion": "11.4" }
+{ "id": 177, "kind": "smartphone", "manufacturer": "Sony", "model": "Model 8", "ownedBy": 39, "softwareVersion": "1.8" }
+{ "id": 181, "kind": "smartwatch", "manufacturer": "Sony", "model": "Model 9", "ownedBy": 2, "softwareVersion": "2.2" }
+{ "id": 184, "kind": "smartphone", "manufacturer": "Microsoft", "model": "Model 6", "ownedBy": 56, "softwareVersion": "3.9" }
+{ "id": 186, "kind": "camera", "manufacturer": "Sony", "model": "Model 6", "ownedBy": 48, "softwareVersion": "5.9" }
+{ "id": 188, "kind": "smartphone", "manufacturer": "Google", "model": "Model 9", "ownedBy": 41, "softwareVersion": "1.8" }
+{ "id": 189, "kind": "smartphone", "manufacturer": "Google", "model": "Model 6", "ownedBy": 20, "softwareVersion": "10.8" }
+{ "id": 193, "kind": "camera", "manufacturer": "Apple", "model": "Model 8", "ownedBy": 15, "softwareVersion": "7.3" }
+{ "id": 194, "kind": "smartwatch", "manufacturer": "Apple", "model": "Model 3", "ownedBy": 34, "softwareVersion": "0.8" }
+{ "id": 197, "kind": "camera", "manufacturer": "Google", "model": "Model 4", "ownedBy": 64, "softwareVersion": "11.8" }
+{ "id": 198, "kind": "camera", "manufacturer": "Sony", "model": "Model 9", "ownedBy": 26, "softwareVersion": "12.3" }

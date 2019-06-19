@@ -1,0 +1,323 @@
+{ "phlid": 1, "tnum": 1, "createdAt": datetime("2019-03-23T19:59:40.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 1, "tnum": 3, "createdAt": datetime("2019-03-12T19:47:34.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went hiking." }
+{ "phlid": 2, "tnum": 1, "createdAt": datetime("2019-03-18T02:09:51.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel content." }
+{ "phlid": 8, "tnum": 1, "createdAt": datetime("2019-03-27T06:45:40.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I went to the gym." }
+{ "phlid": 8, "tnum": 3, "createdAt": datetime("2019-04-27T05:53:56.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a fever." }
+{ "phlid": 8, "tnum": 4, "createdAt": datetime("2019-03-24T23:02:05.000Z"), "relatedInterests": [ "diet 1" ], "text": "I opted for a salad during lunch." }
+{ "phlid": 9, "tnum": 0, "createdAt": datetime("2019-03-02T01:42:23.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 10, "tnum": 0, "createdAt": datetime("2019-03-28T10:49:41.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I had the urge to drink with my coworkers but I decided not to." }
+{ "phlid": 12, "tnum": 0, "createdAt": datetime("2019-03-04T09:33:23.000Z"), "relatedInterests": [ "diet 1" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 12, "tnum": 1, "createdAt": datetime("2019-03-15T22:21:05.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 14, "tnum": 2, "createdAt": datetime("2019-04-18T18:57:27.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 14, "tnum": 3, "createdAt": datetime("2019-04-04T12:26:30.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have swollen glans." }
+{ "phlid": 14, "tnum": 4, "createdAt": datetime("2019-04-21T18:26:55.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I played soccer." }
+{ "phlid": 14, "tnum": 5, "createdAt": datetime("2019-04-23T14:30:08.000Z"), "relatedInterests": [ "diet 0" ], "text": "I resisted the urge to eat ice-cream today." }
+{ "phlid": 15, "tnum": 1, "createdAt": datetime("2019-03-29T16:48:13.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 15, "tnum": 3, "createdAt": datetime("2019-04-05T03:38:52.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have joint pain." }
+{ "phlid": 15, "tnum": 4, "createdAt": datetime("2019-03-18T13:52:56.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a skin rash." }
+{ "phlid": 15, "tnum": 5, "createdAt": datetime("2019-03-27T10:25:44.000Z"), "relatedInterests": [ "diet 1" ], "text": "I resisted the urge to eat ice-cream today." }
+{ "phlid": 15, "tnum": 6, "createdAt": datetime("2019-04-19T17:56:09.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "Today I went to an AA meeting." }
+{ "phlid": 16, "tnum": 1, "createdAt": datetime("2019-04-13T06:27:42.000Z"), "relatedInterests": [ "diet 0" ], "text": "I opted for a salad during lunch." }
+{ "phlid": 16, "tnum": 3, "createdAt": datetime("2019-04-22T07:11:30.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel prideful." }
+{ "phlid": 18, "tnum": 0, "createdAt": datetime("2019-03-05T02:08:14.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a fever." }
+{ "phlid": 18, "tnum": 1, "createdAt": datetime("2019-04-18T09:50:18.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel discouraged." }
+{ "phlid": 20, "tnum": 1, "createdAt": datetime("2019-03-25T02:44:18.000Z"), "relatedInterests": [ "diet 1" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 20, "tnum": 3, "createdAt": datetime("2019-03-19T10:37:48.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have joint pain." }
+{ "phlid": 20, "tnum": 4, "createdAt": datetime("2019-04-05T03:57:30.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 20, "tnum": 5, "createdAt": datetime("2019-04-24T03:33:23.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I got wasted and forgot to go to work." }
+{ "phlid": 21, "tnum": 0, "createdAt": datetime("2019-03-04T13:31:49.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went to yoga." }
+{ "phlid": 25, "tnum": 0, "createdAt": datetime("2019-04-28T02:42:43.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel confident." }
+{ "phlid": 25, "tnum": 2, "createdAt": datetime("2019-03-26T00:51:36.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have joint pain." }
+{ "phlid": 26, "tnum": 0, "createdAt": datetime("2019-03-06T08:42:47.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 26, "tnum": 2, "createdAt": datetime("2019-04-25T02:00:27.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had a dream about drinking." }
+{ "phlid": 27, "tnum": 1, "createdAt": datetime("2019-04-10T18:54:17.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I went paintballing." }
+{ "phlid": 27, "tnum": 3, "createdAt": datetime("2019-04-19T02:11:32.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have joint pain." }
+{ "phlid": 27, "tnum": 4, "createdAt": datetime("2019-03-27T15:02:34.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had the urge to drink with my coworkers but I decided not to." }
+{ "phlid": 27, "tnum": 5, "createdAt": datetime("2019-03-28T13:06:14.000Z"), "relatedInterests": [ "diet 1" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 28, "tnum": 1, "createdAt": datetime("2019-03-01T13:54:03.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 28, "tnum": 3, "createdAt": datetime("2019-04-08T02:25:56.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I played soccer." }
+{ "phlid": 29, "tnum": 0, "createdAt": datetime("2019-04-26T06:01:11.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I had a dream about drinking." }
+{ "phlid": 30, "tnum": 0, "createdAt": datetime("2019-03-20T15:52:16.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 31, "tnum": 1, "createdAt": datetime("2019-04-13T21:21:38.000Z"), "relatedInterests": [ "diet 0" ], "text": "My diet is making my feel amazing." }
+{ "phlid": 31, "tnum": 3, "createdAt": datetime("2019-04-19T14:37:18.000Z"), "relatedInterests": [ "diet 1" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 31, "tnum": 4, "createdAt": datetime("2019-03-28T19:03:36.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 31, "tnum": 5, "createdAt": datetime("2019-04-17T19:16:47.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went bicycling." }
+{ "phlid": 32, "tnum": 1, "createdAt": datetime("2019-04-24T03:38:07.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went bowling." }
+{ "phlid": 32, "tnum": 2, "createdAt": datetime("2019-03-28T05:09:52.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 32, "tnum": 3, "createdAt": datetime("2019-03-29T10:20:02.000Z"), "relatedInterests": [ "diet 0" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 32, "tnum": 4, "createdAt": datetime("2019-03-10T08:10:55.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel angry." }
+{ "phlid": 32, "tnum": 5, "createdAt": datetime("2019-04-18T08:10:13.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I went bowling." }
+{ "phlid": 33, "tnum": 1, "createdAt": datetime("2019-03-23T15:14:57.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 33, "tnum": 3, "createdAt": datetime("2019-04-20T00:53:48.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel inspired." }
+{ "phlid": 33, "tnum": 4, "createdAt": datetime("2019-04-04T02:48:48.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have a sore throat." }
+{ "phlid": 33, "tnum": 5, "createdAt": datetime("2019-03-13T02:19:44.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have muscle pain." }
+{ "phlid": 36, "tnum": 0, "createdAt": datetime("2019-03-31T19:51:43.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel cherished." }
+{ "phlid": 36, "tnum": 2, "createdAt": datetime("2019-04-29T13:35:41.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had the urge to drink with my coworkers but I decided not to." }
+{ "phlid": 36, "tnum": 3, "createdAt": datetime("2019-04-26T09:09:46.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 37, "tnum": 1, "createdAt": datetime("2019-04-18T21:57:39.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 37, "tnum": 3, "createdAt": datetime("2019-04-17T07:19:32.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 37, "tnum": 6, "createdAt": datetime("2019-03-31T20:54:04.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel capable." }
+{ "phlid": 37, "tnum": 8, "createdAt": datetime("2019-03-20T02:32:26.000Z"), "relatedInterests": [ "alcoholism 2" ], "text": "I relapsed and I do not feel that bad." }
+{ "phlid": 39, "tnum": 0, "createdAt": datetime("2019-03-05T01:07:07.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 39, "tnum": 2, "createdAt": datetime("2019-03-15T03:46:25.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 39, "tnum": 3, "createdAt": datetime("2019-03-05T05:35:30.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I played tennis." }
+{ "phlid": 39, "tnum": 4, "createdAt": datetime("2019-04-03T04:36:32.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 40, "tnum": 1, "createdAt": datetime("2019-04-07T18:10:09.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I relapsed and I do not feel that bad." }
+{ "phlid": 41, "tnum": 1, "createdAt": datetime("2019-04-10T12:01:01.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel sad." }
+{ "phlid": 41, "tnum": 3, "createdAt": datetime("2019-04-23T16:55:25.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have swollen glans." }
+{ "phlid": 41, "tnum": 4, "createdAt": datetime("2019-04-28T00:54:06.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel motivated." }
+{ "phlid": 41, "tnum": 5, "createdAt": datetime("2019-04-29T20:54:56.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have a sore throat." }
+{ "phlid": 42, "tnum": 0, "createdAt": datetime("2019-03-20T02:56:58.000Z"), "relatedInterests": [ "diet 1" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 42, "tnum": 1, "createdAt": datetime("2019-03-16T14:31:26.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 44, "tnum": 2, "createdAt": datetime("2019-03-29T06:38:59.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel sad." }
+{ "phlid": 44, "tnum": 3, "createdAt": datetime("2019-04-19T02:27:18.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 44, "tnum": 4, "createdAt": datetime("2019-04-26T10:03:06.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 44, "tnum": 5, "createdAt": datetime("2019-04-25T05:18:10.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a sore throat." }
+{ "phlid": 48, "tnum": 1, "createdAt": datetime("2019-04-16T01:57:43.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have joint pain." }
+{ "phlid": 48, "tnum": 3, "createdAt": datetime("2019-03-14T07:40:37.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel hopeful." }
+{ "phlid": 49, "tnum": 0, "createdAt": datetime("2019-04-04T01:50:40.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 49, "tnum": 2, "createdAt": datetime("2019-04-11T17:41:07.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a fever." }
+{ "phlid": 49, "tnum": 6, "createdAt": datetime("2019-04-07T01:12:59.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 49, "tnum": 7, "createdAt": datetime("2019-04-07T06:10:22.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I had the urge to drink with my coworkers but I decided not to." }
+{ "phlid": 50, "tnum": 0, "createdAt": datetime("2019-03-23T18:17:35.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 50, "tnum": 2, "createdAt": datetime("2019-04-11T21:42:13.000Z"), "relatedInterests": [ "diet 0" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 52, "tnum": 0, "createdAt": datetime("2019-04-29T06:37:59.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel cooperative." }
+{ "phlid": 53, "tnum": 1, "createdAt": datetime("2019-04-20T11:17:01.000Z"), "relatedInterests": [ "depression 2" ], "text": "I feel angry." }
+{ "phlid": 53, "tnum": 2, "createdAt": datetime("2019-04-22T22:45:20.000Z"), "relatedInterests": [ "diet 1" ], "text": "I resisted the urge to eat ice-cream today." }
+{ "phlid": 53, "tnum": 3, "createdAt": datetime("2019-03-18T15:36:34.000Z"), "relatedInterests": [ "diet 0" ], "text": "My diet is making my feel amazing." }
+{ "phlid": 55, "tnum": 0, "createdAt": datetime("2019-03-19T17:34:50.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went bicycling." }
+{ "phlid": 55, "tnum": 2, "createdAt": datetime("2019-04-29T15:54:54.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 56, "tnum": 0, "createdAt": datetime("2019-03-18T23:00:53.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 58, "tnum": 0, "createdAt": datetime("2019-03-23T22:16:10.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel guilty." }
+{ "phlid": 58, "tnum": 2, "createdAt": datetime("2019-04-18T01:00:45.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 58, "tnum": 6, "createdAt": datetime("2019-03-01T23:52:10.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 59, "tnum": 1, "createdAt": datetime("2019-04-08T14:31:23.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 59, "tnum": 2, "createdAt": datetime("2019-03-20T01:45:57.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have swollen glans." }
+{ "phlid": 59, "tnum": 3, "createdAt": datetime("2019-04-04T02:21:51.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel cheery." }
+{ "phlid": 59, "tnum": 4, "createdAt": datetime("2019-03-24T07:21:24.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I relapsed and I do not feel that bad." }
+{ "phlid": 59, "tnum": 5, "createdAt": datetime("2019-04-20T19:13:30.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went swimming." }
+{ "phlid": 61, "tnum": 0, "createdAt": datetime("2019-03-14T23:30:17.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 61, "tnum": 2, "createdAt": datetime("2019-04-01T09:17:26.000Z"), "relatedInterests": [ "alcoholism 2" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 62, "tnum": 1, "createdAt": datetime("2019-03-18T05:31:50.000Z"), "relatedInterests": [ "depression 2" ], "text": "I feel grateful." }
+{ "phlid": 62, "tnum": 2, "createdAt": datetime("2019-04-07T07:42:58.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I played soccer." }
+{ "phlid": 62, "tnum": 3, "createdAt": datetime("2019-03-29T16:27:50.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I played ice hockey." }
+{ "phlid": 62, "tnum": 4, "createdAt": datetime("2019-03-31T01:29:44.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel discouraged." }
+{ "phlid": 64, "tnum": 1, "createdAt": datetime("2019-04-17T21:35:16.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "Today I went to an AA meeting." }
+{ "phlid": 64, "tnum": 3, "createdAt": datetime("2019-03-02T12:02:02.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 64, "tnum": 4, "createdAt": datetime("2019-04-24T22:34:37.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a sore throat." }
+{ "phlid": 64, "tnum": 6, "createdAt": datetime("2019-03-03T06:50:38.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel loved." }
+{ "phlid": 65, "tnum": 1, "createdAt": datetime("2019-03-25T15:18:07.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 66, "tnum": 0, "createdAt": datetime("2019-03-21T05:49:00.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 66, "tnum": 1, "createdAt": datetime("2019-04-13T17:42:56.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel content." }
+{ "phlid": 67, "tnum": 1, "createdAt": datetime("2019-04-14T10:59:39.000Z"), "relatedInterests": [ "alcoholism 2" ], "text": "I got wasted and forgot to go to work." }
+{ "phlid": 67, "tnum": 2, "createdAt": datetime("2019-03-12T18:08:06.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I played ice hockey." }
+{ "phlid": 67, "tnum": 3, "createdAt": datetime("2019-03-13T07:04:37.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went bowling." }
+{ "phlid": 67, "tnum": 4, "createdAt": datetime("2019-03-01T08:48:37.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 69, "tnum": 0, "createdAt": datetime("2019-04-17T16:21:17.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 69, "tnum": 1, "createdAt": datetime("2019-04-11T03:15:59.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 71, "tnum": 2, "createdAt": datetime("2019-03-09T23:09:10.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 71, "tnum": 3, "createdAt": datetime("2019-03-09T18:18:20.000Z"), "relatedInterests": [ "HIV 1" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 71, "tnum": 4, "createdAt": datetime("2019-03-03T01:16:14.000Z"), "relatedInterests": [ "diet 0" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 71, "tnum": 5, "createdAt": datetime("2019-03-28T09:06:06.000Z"), "relatedInterests": [ "diet 0" ], "text": "My diet is making my feel amazing." }
+{ "phlid": 71, "tnum": 7, "createdAt": datetime("2019-03-25T03:13:15.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went hiking." }
+{ "phlid": 72, "tnum": 0, "createdAt": datetime("2019-04-16T15:34:44.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I went bicycling." }
+{ "phlid": 72, "tnum": 2, "createdAt": datetime("2019-04-08T07:59:38.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel content." }
+{ "phlid": 73, "tnum": 1, "createdAt": datetime("2019-04-29T03:15:56.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 74, "tnum": 1, "createdAt": datetime("2019-04-02T14:49:19.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I played volleyball." }
+{ "phlid": 77, "tnum": 2, "createdAt": datetime("2019-04-25T03:53:58.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 78, "tnum": 1, "createdAt": datetime("2019-04-17T19:33:13.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel comfortable." }
+{ "phlid": 78, "tnum": 3, "createdAt": datetime("2019-03-09T14:57:08.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have muscle pain." }
+{ "phlid": 78, "tnum": 4, "createdAt": datetime("2019-04-16T03:58:57.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 78, "tnum": 6, "createdAt": datetime("2019-04-06T20:22:33.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 78, "tnum": 8, "createdAt": datetime("2019-04-26T20:16:03.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 79, "tnum": 0, "createdAt": datetime("2019-04-12T14:47:44.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel captivated." }
+{ "phlid": 79, "tnum": 2, "createdAt": datetime("2019-03-23T23:21:55.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have swollen glans." }
+{ "phlid": 79, "tnum": 6, "createdAt": datetime("2019-04-10T15:55:22.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 79, "tnum": 7, "createdAt": datetime("2019-04-18T19:12:50.000Z"), "relatedInterests": [ "HIV 2" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 79, "tnum": 8, "createdAt": datetime("2019-04-04T01:20:50.000Z"), "relatedInterests": [ "diet 1" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 81, "tnum": 0, "createdAt": datetime("2019-03-04T08:39:21.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel lovely." }
+{ "phlid": 81, "tnum": 2, "createdAt": datetime("2019-03-13T22:34:29.000Z"), "relatedInterests": [ "HIV 2" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 83, "tnum": 0, "createdAt": datetime("2019-04-08T22:08:35.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 83, "tnum": 2, "createdAt": datetime("2019-03-23T05:33:18.000Z"), "relatedInterests": [ "diet 0" ], "text": "My diet is making my feel amazing." }
+{ "phlid": 85, "tnum": 0, "createdAt": datetime("2019-03-05T17:30:15.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 88, "tnum": 0, "createdAt": datetime("2019-03-06T18:55:22.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 88, "tnum": 1, "createdAt": datetime("2019-04-24T06:19:52.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have joint pain." }
+{ "phlid": 90, "tnum": 1, "createdAt": datetime("2019-03-17T20:43:53.000Z"), "relatedInterests": [ "HIV 0" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 90, "tnum": 3, "createdAt": datetime("2019-03-15T03:00:29.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel prideful." }
+{ "phlid": 90, "tnum": 4, "createdAt": datetime("2019-03-27T14:18:24.000Z"), "relatedInterests": [ "diet 0" ], "text": "My diet is making my feel amazing." }
+{ "phlid": 90, "tnum": 5, "createdAt": datetime("2019-03-23T10:42:45.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel anxious." }
+{ "phlid": 91, "tnum": 1, "createdAt": datetime("2019-03-22T23:41:29.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went bowling." }
+{ "phlid": 91, "tnum": 3, "createdAt": datetime("2019-04-22T18:11:53.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 91, "tnum": 4, "createdAt": datetime("2019-03-07T22:16:39.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 91, "tnum": 6, "createdAt": datetime("2019-04-13T04:45:58.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 92, "tnum": 1, "createdAt": datetime("2019-04-22T23:13:09.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 92, "tnum": 6, "createdAt": datetime("2019-03-11T13:33:32.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 92, "tnum": 8, "createdAt": datetime("2019-03-16T13:19:56.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have swollen glans." }
+{ "phlid": 93, "tnum": 1, "createdAt": datetime("2019-04-08T19:44:30.000Z"), "relatedInterests": [ "diet 0" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 95, "tnum": 0, "createdAt": datetime("2019-04-21T16:12:58.000Z"), "relatedInterests": [ "alcoholism 2" ], "text": "I had a dream about drinking." }
+{ "phlid": 97, "tnum": 1, "createdAt": datetime("2019-04-29T00:56:44.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 97, "tnum": 3, "createdAt": datetime("2019-03-19T16:45:28.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a skin rash." }
+{ "phlid": 97, "tnum": 4, "createdAt": datetime("2019-03-09T01:56:17.000Z"), "relatedInterests": [ "diet 0" ], "text": "I opted for a salad during lunch." }
+{ "phlid": 97, "tnum": 5, "createdAt": datetime("2019-04-15T12:32:26.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have muscle pain." }
+{ "phlid": 98, "tnum": 0, "createdAt": datetime("2019-04-01T23:51:15.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel captivated." }
+{ "phlid": 98, "tnum": 1, "createdAt": datetime("2019-03-25T04:15:16.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 99, "tnum": 0, "createdAt": datetime("2019-04-17T18:25:40.000Z"), "relatedInterests": [ "HIV 1" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 99, "tnum": 2, "createdAt": datetime("2019-04-20T00:20:11.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I ran." }
+{ "phlid": 99, "tnum": 5, "createdAt": datetime("2019-03-28T06:47:52.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went to yoga." }
+{ "phlid": 100, "tnum": 1, "createdAt": datetime("2019-03-26T08:44:47.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 100, "tnum": 2, "createdAt": datetime("2019-03-04T23:37:30.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went to the gym." }
+{ "phlid": 100, "tnum": 3, "createdAt": datetime("2019-04-08T06:10:24.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a skin rash." }
+{ "phlid": 100, "tnum": 4, "createdAt": datetime("2019-04-25T05:08:55.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 1, "tnum": 0, "createdAt": datetime("2019-03-19T10:09:54.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a fever." }
+{ "phlid": 1, "tnum": 2, "createdAt": datetime("2019-03-12T17:22:19.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I went fishing." }
+{ "phlid": 2, "tnum": 0, "createdAt": datetime("2019-04-26T16:23:24.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a skin rash." }
+{ "phlid": 2, "tnum": 2, "createdAt": datetime("2019-04-29T04:09:45.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 7, "tnum": 0, "createdAt": datetime("2019-04-25T13:51:37.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 8, "tnum": 0, "createdAt": datetime("2019-04-28T05:04:18.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 8, "tnum": 2, "createdAt": datetime("2019-03-12T05:45:08.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 9, "tnum": 1, "createdAt": datetime("2019-03-22T23:59:29.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I relapsed and I do not feel that bad." }
+{ "phlid": 10, "tnum": 1, "createdAt": datetime("2019-04-07T19:11:37.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 11, "tnum": 0, "createdAt": datetime("2019-03-29T23:56:57.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "Today I went to an AA meeting." }
+{ "phlid": 12, "tnum": 2, "createdAt": datetime("2019-03-31T03:18:18.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I got wasted and forgot to go to work." }
+{ "phlid": 12, "tnum": 3, "createdAt": datetime("2019-03-28T18:48:26.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel great." }
+{ "phlid": 14, "tnum": 0, "createdAt": datetime("2019-04-29T11:50:35.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 14, "tnum": 1, "createdAt": datetime("2019-04-13T16:52:09.000Z"), "relatedInterests": [ "HIV 1" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 15, "tnum": 0, "createdAt": datetime("2019-04-18T04:43:54.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "Today I went to an AA meeting." }
+{ "phlid": 15, "tnum": 2, "createdAt": datetime("2019-04-01T04:20:45.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 15, "tnum": 7, "createdAt": datetime("2019-04-19T06:01:44.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 16, "tnum": 0, "createdAt": datetime("2019-03-20T07:05:23.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 16, "tnum": 2, "createdAt": datetime("2019-04-21T20:32:35.000Z"), "relatedInterests": [ "diet 1" ], "text": "I resisted the urge to eat ice-cream today." }
+{ "phlid": 18, "tnum": 2, "createdAt": datetime("2019-03-09T04:24:03.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have a sore throat." }
+{ "phlid": 18, "tnum": 3, "createdAt": datetime("2019-04-15T21:19:23.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel lovely." }
+{ "phlid": 18, "tnum": 4, "createdAt": datetime("2019-03-19T10:33:11.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 20, "tnum": 0, "createdAt": datetime("2019-04-12T01:45:55.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I had a dream about drinking." }
+{ "phlid": 20, "tnum": 2, "createdAt": datetime("2019-04-16T22:05:44.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had the urge to drink with my coworkers but I decided not to." }
+{ "phlid": 25, "tnum": 1, "createdAt": datetime("2019-03-19T16:27:06.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I played basketball." }
+{ "phlid": 26, "tnum": 1, "createdAt": datetime("2019-03-18T03:51:39.000Z"), "relatedInterests": [ "diet 1" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 26, "tnum": 3, "createdAt": datetime("2019-04-30T13:43:05.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a sore throat." }
+{ "phlid": 27, "tnum": 0, "createdAt": datetime("2019-03-16T09:49:00.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 27, "tnum": 2, "createdAt": datetime("2019-04-25T20:41:40.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I went to yoga." }
+{ "phlid": 27, "tnum": 6, "createdAt": datetime("2019-03-26T19:07:28.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 28, "tnum": 0, "createdAt": datetime("2019-04-04T14:14:13.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went to the gym." }
+{ "phlid": 28, "tnum": 2, "createdAt": datetime("2019-04-18T08:51:10.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I played tennis." }
+{ "phlid": 29, "tnum": 1, "createdAt": datetime("2019-04-20T16:02:38.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 31, "tnum": 0, "createdAt": datetime("2019-03-07T01:01:06.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 31, "tnum": 2, "createdAt": datetime("2019-04-26T04:34:03.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I went bowling." }
+{ "phlid": 31, "tnum": 6, "createdAt": datetime("2019-03-11T20:14:39.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel euphoric." }
+{ "phlid": 31, "tnum": 7, "createdAt": datetime("2019-03-11T23:37:40.000Z"), "relatedInterests": [ "diet 1" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 31, "tnum": 8, "createdAt": datetime("2019-03-31T04:34:30.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 32, "tnum": 0, "createdAt": datetime("2019-04-13T04:56:45.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 32, "tnum": 6, "createdAt": datetime("2019-04-16T00:40:24.000Z"), "relatedInterests": [ "depression 2" ], "text": "I feel joyful." }
+{ "phlid": 33, "tnum": 0, "createdAt": datetime("2019-04-14T09:31:58.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 33, "tnum": 2, "createdAt": datetime("2019-03-11T20:29:06.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I went to yoga." }
+{ "phlid": 33, "tnum": 6, "createdAt": datetime("2019-04-05T03:43:42.000Z"), "relatedInterests": [ "diet 1" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 33, "tnum": 7, "createdAt": datetime("2019-03-08T04:49:18.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 36, "tnum": 1, "createdAt": datetime("2019-04-27T12:43:20.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel motivated." }
+{ "phlid": 37, "tnum": 0, "createdAt": datetime("2019-03-05T16:52:44.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have joint pain." }
+{ "phlid": 37, "tnum": 2, "createdAt": datetime("2019-04-19T07:56:46.000Z"), "relatedInterests": [ "depression 2" ], "text": "I feel hopeful." }
+{ "phlid": 37, "tnum": 4, "createdAt": datetime("2019-03-27T03:01:55.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 37, "tnum": 5, "createdAt": datetime("2019-03-13T12:36:49.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I had the urge to drink with my coworkers but I decided not to." }
+{ "phlid": 37, "tnum": 7, "createdAt": datetime("2019-03-25T16:21:10.000Z"), "relatedInterests": [ "diet 0" ], "text": "I resisted the urge to eat ice-cream today." }
+{ "phlid": 39, "tnum": 1, "createdAt": datetime("2019-04-03T08:56:58.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 40, "tnum": 0, "createdAt": datetime("2019-03-29T21:22:46.000Z"), "relatedInterests": [ "depression 2" ], "text": "I feel crafty." }
+{ "phlid": 40, "tnum": 2, "createdAt": datetime("2019-04-07T10:41:08.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel interested." }
+{ "phlid": 41, "tnum": 0, "createdAt": datetime("2019-03-04T05:06:46.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 41, "tnum": 2, "createdAt": datetime("2019-03-16T09:03:08.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I relapsed and I do not feel that bad." }
+{ "phlid": 42, "tnum": 2, "createdAt": datetime("2019-04-18T17:05:19.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I had a dream about drinking." }
+{ "phlid": 42, "tnum": 3, "createdAt": datetime("2019-03-10T14:29:47.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went bowling." }
+{ "phlid": 42, "tnum": 4, "createdAt": datetime("2019-03-04T12:04:37.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a sore throat." }
+{ "phlid": 42, "tnum": 5, "createdAt": datetime("2019-03-28T03:39:05.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I played volleyball." }
+{ "phlid": 44, "tnum": 0, "createdAt": datetime("2019-04-12T22:05:08.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I had a dream about drinking." }
+{ "phlid": 44, "tnum": 1, "createdAt": datetime("2019-04-23T01:47:32.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 44, "tnum": 6, "createdAt": datetime("2019-03-19T00:57:54.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel good." }
+{ "phlid": 48, "tnum": 0, "createdAt": datetime("2019-04-26T16:17:31.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 48, "tnum": 2, "createdAt": datetime("2019-04-16T16:47:56.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I played soccer." }
+{ "phlid": 48, "tnum": 4, "createdAt": datetime("2019-04-13T15:35:02.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I had the urge to drink with my coworkers but I decided not to." }
+{ "phlid": 49, "tnum": 1, "createdAt": datetime("2019-04-03T05:08:45.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel guilty." }
+{ "phlid": 49, "tnum": 3, "createdAt": datetime("2019-04-05T18:04:55.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 49, "tnum": 4, "createdAt": datetime("2019-03-04T01:45:58.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I went bicycling." }
+{ "phlid": 49, "tnum": 5, "createdAt": datetime("2019-04-30T12:10:58.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 49, "tnum": 8, "createdAt": datetime("2019-04-12T22:09:12.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have a sore throat." }
+{ "phlid": 50, "tnum": 1, "createdAt": datetime("2019-03-01T15:32:44.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I went to the gym." }
+{ "phlid": 50, "tnum": 3, "createdAt": datetime("2019-04-09T01:55:42.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel angry." }
+{ "phlid": 50, "tnum": 4, "createdAt": datetime("2019-03-25T05:38:36.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel cherished." }
+{ "phlid": 50, "tnum": 5, "createdAt": datetime("2019-04-29T21:17:48.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 52, "tnum": 1, "createdAt": datetime("2019-03-12T01:33:58.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 52, "tnum": 2, "createdAt": datetime("2019-03-14T23:09:13.000Z"), "relatedInterests": [ "HIV 1" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 52, "tnum": 3, "createdAt": datetime("2019-03-16T04:45:17.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I ran." }
+{ "phlid": 53, "tnum": 0, "createdAt": datetime("2019-04-24T02:25:40.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a sore throat." }
+{ "phlid": 55, "tnum": 1, "createdAt": datetime("2019-03-18T12:26:59.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel guilty." }
+{ "phlid": 55, "tnum": 3, "createdAt": datetime("2019-03-01T13:00:16.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I went swimming." }
+{ "phlid": 56, "tnum": 1, "createdAt": datetime("2019-03-06T16:10:36.000Z"), "relatedInterests": [ "depression 1" ], "text": "I feel awesome." }
+{ "phlid": 58, "tnum": 1, "createdAt": datetime("2019-04-06T19:26:38.000Z"), "relatedInterests": [ "diet 0" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 58, "tnum": 3, "createdAt": datetime("2019-03-09T03:50:23.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 58, "tnum": 4, "createdAt": datetime("2019-04-08T10:50:13.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 58, "tnum": 5, "createdAt": datetime("2019-04-04T05:45:56.000Z"), "relatedInterests": [ "alcoholism 2" ], "text": "I had a dream about drinking." }
+{ "phlid": 59, "tnum": 0, "createdAt": datetime("2019-03-03T19:15:32.000Z"), "relatedInterests": [ "HIV 2" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 61, "tnum": 1, "createdAt": datetime("2019-04-17T12:41:14.000Z"), "relatedInterests": [ "diet 1" ], "text": "My diet is making my feel amazing." }
+{ "phlid": 62, "tnum": 0, "createdAt": datetime("2019-04-07T08:25:36.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have joint pain." }
+{ "phlid": 64, "tnum": 0, "createdAt": datetime("2019-04-20T00:42:31.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have swollen glans." }
+{ "phlid": 64, "tnum": 2, "createdAt": datetime("2019-04-22T04:31:49.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went bicycling." }
+{ "phlid": 64, "tnum": 5, "createdAt": datetime("2019-03-30T07:16:12.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have joint pain." }
+{ "phlid": 64, "tnum": 7, "createdAt": datetime("2019-03-07T12:07:35.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 65, "tnum": 0, "createdAt": datetime("2019-03-07T09:36:47.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have muscle pain." }
+{ "phlid": 67, "tnum": 0, "createdAt": datetime("2019-03-28T14:03:51.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I went swimming." }
+{ "phlid": 69, "tnum": 2, "createdAt": datetime("2019-03-02T19:28:59.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 69, "tnum": 3, "createdAt": datetime("2019-03-05T15:26:15.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I played volleyball." }
+{ "phlid": 70, "tnum": 0, "createdAt": datetime("2019-03-22T02:50:03.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 71, "tnum": 0, "createdAt": datetime("2019-03-10T13:46:21.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I had a dream about drinking." }
+{ "phlid": 71, "tnum": 1, "createdAt": datetime("2019-04-26T01:50:47.000Z"), "relatedInterests": [ "HIV 2" ], "text": "My symptoms appear to be receding." }
+{ "phlid": 71, "tnum": 6, "createdAt": datetime("2019-04-14T05:54:05.000Z"), "relatedInterests": [ "diet 1" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 72, "tnum": 1, "createdAt": datetime("2019-03-21T13:03:25.000Z"), "relatedInterests": [ "diet 1" ], "text": "I have not eat sweets in as long as I can remember." }
+{ "phlid": 73, "tnum": 0, "createdAt": datetime("2019-04-09T22:26:32.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 74, "tnum": 0, "createdAt": datetime("2019-04-08T10:09:42.000Z"), "relatedInterests": [ "diet 0" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 74, "tnum": 2, "createdAt": datetime("2019-04-11T02:35:29.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a skin rash." }
+{ "phlid": 77, "tnum": 0, "createdAt": datetime("2019-03-24T09:37:23.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 77, "tnum": 1, "createdAt": datetime("2019-04-25T04:50:01.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 78, "tnum": 0, "createdAt": datetime("2019-04-29T11:37:39.000Z"), "relatedInterests": [ "diet 1" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 78, "tnum": 2, "createdAt": datetime("2019-04-19T14:36:48.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 78, "tnum": 5, "createdAt": datetime("2019-04-12T00:59:49.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "Today I went to an AA meeting." }
+{ "phlid": 78, "tnum": 7, "createdAt": datetime("2019-03-14T11:00:45.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I played tennis." }
+{ "phlid": 79, "tnum": 1, "createdAt": datetime("2019-03-23T04:17:35.000Z"), "relatedInterests": [ "exercise 0" ], "text": "Today I went scuba diving." }
+{ "phlid": 79, "tnum": 3, "createdAt": datetime("2019-04-30T19:49:19.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I played basketball." }
+{ "phlid": 79, "tnum": 4, "createdAt": datetime("2019-04-09T17:03:39.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 79, "tnum": 5, "createdAt": datetime("2019-04-09T15:31:52.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 81, "tnum": 1, "createdAt": datetime("2019-03-05T13:17:24.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went sailing." }
+{ "phlid": 81, "tnum": 3, "createdAt": datetime("2019-04-01T16:37:23.000Z"), "relatedInterests": [ "exercise 2" ], "text": "Today I played soccer." }
+{ "phlid": 81, "tnum": 4, "createdAt": datetime("2019-03-06T08:29:51.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 83, "tnum": 1, "createdAt": datetime("2019-03-20T13:26:03.000Z"), "relatedInterests": [ "diet 1" ], "text": "I opted for a salad during lunch." }
+{ "phlid": 85, "tnum": 1, "createdAt": datetime("2019-04-27T16:22:45.000Z"), "relatedInterests": [ "diet 1" ], "text": "I resisted the urge to eat ice-cream today." }
+{ "phlid": 85, "tnum": 2, "createdAt": datetime("2019-03-20T04:40:08.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 85, "tnum": 3, "createdAt": datetime("2019-04-09T04:43:22.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I relapsed and I do not feel that bad." }
+{ "phlid": 88, "tnum": 2, "createdAt": datetime("2019-03-11T07:41:09.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 90, "tnum": 0, "createdAt": datetime("2019-04-29T21:24:17.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have joint pain." }
+{ "phlid": 90, "tnum": 2, "createdAt": datetime("2019-04-15T15:23:28.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 91, "tnum": 0, "createdAt": datetime("2019-03-30T05:07:44.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I went bowling." }
+{ "phlid": 91, "tnum": 2, "createdAt": datetime("2019-03-10T10:14:41.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 91, "tnum": 5, "createdAt": datetime("2019-03-13T03:59:18.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "Today I went to an AA meeting." }
+{ "phlid": 92, "tnum": 0, "createdAt": datetime("2019-04-22T23:35:19.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I got wasted and forgot to go to work." }
+{ "phlid": 92, "tnum": 2, "createdAt": datetime("2019-04-08T23:02:02.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 92, "tnum": 3, "createdAt": datetime("2019-03-14T03:29:14.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a sore throat." }
+{ "phlid": 92, "tnum": 4, "createdAt": datetime("2019-03-19T08:51:03.000Z"), "relatedInterests": [ "diet 1" ], "text": "I resisted the urge to eat ice-cream today." }
+{ "phlid": 92, "tnum": 5, "createdAt": datetime("2019-04-27T03:18:35.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 92, "tnum": 7, "createdAt": datetime("2019-03-21T09:23:06.000Z"), "relatedInterests": [ "exercise 1" ], "text": "Today I played tennis." }
+{ "phlid": 93, "tnum": 0, "createdAt": datetime("2019-03-24T10:50:46.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 93, "tnum": 2, "createdAt": datetime("2019-03-28T02:08:50.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 93, "tnum": 3, "createdAt": datetime("2019-04-10T02:50:22.000Z"), "relatedInterests": [ "alcoholism 1" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 94, "tnum": 0, "createdAt": datetime("2019-04-15T07:49:54.000Z"), "relatedInterests": [ "alcoholism 3" ], "text": "I relapsed and I do not feel that bad." }
+{ "phlid": 95, "tnum": 1, "createdAt": datetime("2019-04-07T15:25:53.000Z"), "relatedInterests": [ "exercise 3" ], "text": "Today I went paintballing." }
+{ "phlid": 95, "tnum": 2, "createdAt": datetime("2019-03-15T08:39:59.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel anxious." }
+{ "phlid": 95, "tnum": 3, "createdAt": datetime("2019-04-24T01:42:43.000Z"), "relatedInterests": [ "diet 0" ], "text": "I opted for a salad during lunch." }
+{ "phlid": 97, "tnum": 0, "createdAt": datetime("2019-03-06T02:26:10.000Z"), "relatedInterests": [ "depression 3" ], "text": "I feel angry." }
+{ "phlid": 97, "tnum": 2, "createdAt": datetime("2019-03-16T11:50:46.000Z"), "relatedInterests": [ "asthma 0" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 97, "tnum": 6, "createdAt": datetime("2019-04-16T13:01:11.000Z"), "relatedInterests": [ "diabetes 0" ], "text": "I had low blood sugar today." }
+{ "phlid": 97, "tnum": 7, "createdAt": datetime("2019-03-20T15:07:56.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have muscle pain." }
+{ "phlid": 98, "tnum": 2, "createdAt": datetime("2019-03-23T04:13:10.000Z"), "relatedInterests": [ "asthma 1" ], "text": "It was was easy for me to breathe today." }
+{ "phlid": 98, "tnum": 3, "createdAt": datetime("2019-04-30T06:39:13.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have a fever." }
+{ "phlid": 98, "tnum": 4, "createdAt": datetime("2019-04-03T11:13:37.000Z"), "relatedInterests": [ "HIV 1" ], "text": "Today I have a fever." }
+{ "phlid": 98, "tnum": 5, "createdAt": datetime("2019-04-05T04:45:54.000Z"), "relatedInterests": [ "HIV 0" ], "text": "Today I have a sore throat." }
+{ "phlid": 99, "tnum": 1, "createdAt": datetime("2019-04-24T18:36:17.000Z"), "relatedInterests": [ "depression 0" ], "text": "I feel crafty." }
+{ "phlid": 99, "tnum": 3, "createdAt": datetime("2019-04-24T14:19:07.000Z"), "relatedInterests": [ "diet 0" ], "text": "My coworkers remarked at my dedication to my diet." }
+{ "phlid": 99, "tnum": 4, "createdAt": datetime("2019-04-20T04:57:34.000Z"), "relatedInterests": [ "alcoholism 0" ], "text": "I had a terrible day and relapsed." }
+{ "phlid": 99, "tnum": 6, "createdAt": datetime("2019-04-20T11:49:33.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a fever." }
+{ "phlid": 100, "tnum": 0, "createdAt": datetime("2019-04-19T06:35:25.000Z"), "relatedInterests": [ "HIV 2" ], "text": "Today I have a skin rash." }

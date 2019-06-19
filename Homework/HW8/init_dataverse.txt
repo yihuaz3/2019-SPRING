@@ -1,0 +1,105 @@
+DROP DATAVERSE HW8 IF EXISTS;
+CREATE DATAVERSE HW8;
+USE HW8;
+
+CREATE TYPE Thought AS {
+	phlid: int,
+	tnum: int,
+	createdAt: datetime,
+	relatedInterests:[ string ]
+};
+
+CREATE TYPE Interest AS {
+	name: string,
+	description: string,
+	topic: string,
+	createdAt: datetime
+};
+
+CREATE TYPE Event AS {
+	id: int,
+	phlid: int,
+	name: string,
+	origin: string?,
+	startTimeStamp: datetime,
+	endTimeStamp: datetime?,
+	relatedObservations: [ int ]
+};
+
+CREATE TYPE Observer AS {
+	id: int,
+	kind: string,
+	manufacturer: string,
+	model: string,
+	ownedBy: int,
+	softwareVersion: string?
+};
+
+CREATE TYPE User AS {
+	id: int,
+	passwd: string,
+	email: string,
+	utype: string
+};
+
+/*
+These commented-out data types are here to help you understand what data could be stored in the created dataset. Note that 'EXTENDS' is not a valid SQL++ keyword. It's used for illustration purpose.
+
+CREATE TYPE Supporter EXTENDS User {
+	phone: string,
+	role: string
+};
+
+CREATE TYPE AddressInfo {
+	state: string,
+	city: string,
+	street: string,
+	zipcode: string
+};
+
+CREATE TYPE PHLogger EXTENDS User {
+	name: string,
+	contact: [ string ],
+	memberOf: [ string ],
+	address: AddressInfo
+};
+*/
+
+CREATE TYPE Observation AS {
+	id: int,
+	kind: string,
+	startTimestamp: datetime,
+	endTimestamp: datetime?,
+	observerId: int?
+};
+
+/*
+These commented-out data types are here to help you understand what data could be stored in the created dataset. Note that 'EXTENDS' is not a valid SQL++ keyword. It's used for illustration purpose.
+
+CREATE TYPE PHLoggerObs EXTENDS Observation {
+	phlid: int,
+	text: string
+};
+
+CREATE TYPE HeartRate EXTENDS Observation {
+	rate: int
+};
+
+CREATE TYPE BloodPressure EXTENDS Observation {
+	diastolic: int,
+	systolic: int
+};
+
+CREATE TYPE Picture EXTENDS Observation {
+	picture: string,
+	label: string,
+	text: string
+};
+*/
+
+CREATE DATASET Observations(Observation) PRIMARY KEY id;
+CREATE DATASET Users(User) PRIMARY KEY id;
+CREATE DATASET Thoughts(Thought) PRIMARY KEY phlid,tnum;
+CREATE DATASET Observers(Observer) PRIMARY KEY id;
+CREATE DATASET Interests(Interest) PRIMARY KEY name;
+CREATE DATASET Events(Event) PRIMARY KEY id;

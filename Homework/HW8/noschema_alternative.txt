@@ -1,0 +1,37 @@
+DROP DATAVERSE NoSchema IF EXISTS;
+CREATE DATAVERSE NoSchema;
+USE NoSchema;
+
+CREATE TYPE Thought AS {
+	phlid: int,
+	tnum: int
+};
+
+CREATE TYPE Interest AS {
+	name: string
+};
+
+CREATE TYPE Event AS {
+	id: int
+};
+
+CREATE TYPE Observer AS {
+	id: int
+};
+
+CREATE TYPE User AS {
+	id: int
+};
+
+
+CREATE TYPE Observation AS {
+	id: int
+};
+
+
+CREATE DATASET Observations(Observation) PRIMARY KEY id;
+CREATE DATASET Users(User) PRIMARY KEY id;
+CREATE DATASET Thoughts(Thought) PRIMARY KEY phlid,tnum;
+CREATE DATASET Observers(Observer) PRIMARY KEY id;
+CREATE DATASET Interests(Interest) PRIMARY KEY name;
+CREATE DATASET Events(Event) PRIMARY KEY id;

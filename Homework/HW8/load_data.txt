@@ -1,0 +1,28 @@
+USE HW8;
+
+LOAD DATASET Observations USING localfs
+    (("path"=":///path_to_hw8_folder/HW8/Observations.adm"),("format"="adm"));
+
+LOAD DATASET Users USING localfs 
+	(("path"=":///path_to_hw8_folder/HW8/Users.adm"),("format"="adm"));
+
+LOAD DATASET Thoughts USING localfs
+    (("path"=":///path_to_hw8_folder/HW8/Thoughts.adm"),("format"="adm"));
+
+LOAD DATASET Observers USING localfs
+    (("path"=":///path_to_hw8_folder/HW8/Observers.adm"),("format"="adm"));
+
+LOAD DATASET Interests USING localfs
+    (("path"=":///path_to_hw8_folder/HW8/Interests.adm"),("format"="adm"));
+
+LOAD DATASET Events USING localfs
+    (("path"=":///path_to_hw8_folder/HW8/Events.adm"),("format"="adm"));
+
+
+SELECT COUNT(*) AS ObservationsCount FROM Observations;
+SELECT COUNT(*) AS UsersCount FROM Users;
+SELECT COUNT(*) AS ThoughtsCount FROM Thoughts;
+SELECT COUNT(*) AS ObserversCount FROM Observers;
+SELECT COUNT(*) AS InterestsCount FROM Interests;
+SELECT COUNT(*) AS EventsCount FROM Events;
+

@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww12600\viewh7280\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 USE HW8;\
+SELECT Users.*, (SELECT VALUE t.text FROM Thoughts AS Th WHERE Th.phlid = 85) AS thought_texts,(SELECT o.diastolic, o.systolic FROM Observations AS o, Observers AS ov WHERE ov. ownedBy = 85 AND ov.id = o. observerId AND o.kind = "blood_pressure") AS blood_pressure, (SELECT VALUE o.rate FROM Observations AS o, Observers AS ov WHERE ov. ownedBy = 85 AND ov.id = o. observerId AND o.kind = "heart_rate") AS heart_rates FROM Users WHERE Users.id = 85;\
+}
